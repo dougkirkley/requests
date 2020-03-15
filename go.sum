@@ -1,0 +1,3 @@
+github.com/kubernetes/client-go v1.5.1 h1:RQJPWjTnH+5kQhZCuxGc7cy6+SB7VdBQQjQj1D4PAuQ=
+github.com/kubernetes/client-go v11.0.0+incompatible h1:g8FB7QVXKKp4imk86Dgc+FxjLFqUfn/p/1i3yC0WEAg=
+github.com/kubernetes/client-go v11.0.0+incompatible/go.mod h1:kszVi2i+FeqECZHhjpkV5h5zM0GnURfJv897YzgoAQ8=
